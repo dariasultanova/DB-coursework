@@ -1,0 +1,29 @@
+C:\Учёба\базы данных\курсач\courcework\courcework\bin\Debug\courcework.exe.config
+C:\Учёба\базы данных\курсач\courcework\courcework\bin\Debug\courcework.exe
+C:\Учёба\базы данных\курсач\courcework\courcework\bin\Debug\courcework.pdb
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.csprojAssemblyReference.cache
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.EnterToSystem.resources
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.Properties.Resources.resources
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.csproj.GenerateResource.cache
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.csproj.CoreCompileInputs.cache
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.exe
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.pdb
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.AdminForm.resources
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.StaffForm.resources
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.ClientForm.resources
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.RegisterClientForm.resources
+C:\Учёба\базы данных\курсач\courcework\courcework\obj\Debug\courcework.RegisterStaffForm.resources
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.AdminForm.resources
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.EnterToSystem.resources
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.ClientForm.resources
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.Properties.Resources.resources
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.RegisterClientForm.resources
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.RegisterStaffForm.resources
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.StaffForm.resources
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.pdb
+\\Mac\Home\Desktop\courcework\courcework\bin\Debug\courcework.exe.config
+\\Mac\Home\Desktop\courcework\courcework\bin\Debug\courcework.exe
+\\Mac\Home\Desktop\courcework\courcework\bin\Debug\courcework.pdb
+\\Mac\Home\Desktop\courcework\courcework\obj\Debug\courcework.exe
